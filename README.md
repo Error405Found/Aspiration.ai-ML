@@ -20,4 +20,4 @@ This Machine Learning Internship is a great way for you to start your data scien
 ## Mentoring:
 ## Learning Videos:
 ## Final Interview with Experts:
-## Internship Certificate: 
+
